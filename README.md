@@ -8,7 +8,8 @@ Este projeto demonstra como provisionar infraestrutura na AWS usando Terraform e
 
 ## 🧰 Tecnologias Utilizadas
 
-- 🖥️ Java (aplicação simples com Spring Boot ou Java puro)
+- 🖥️ Java
+- 🍃 Spring Boot
 - 🐳 Docker + Docker Hub
 - ☁️ Amazon EC2 (via Terraform)
 - 📦 Terraform CLI
@@ -33,7 +34,7 @@ Este projeto demonstra como provisionar infraestrutura na AWS usando Terraform e
 projeto/
 ├── app/
 │   └── Dockerfile
-│   └── Main.java ou SpringBootApp.java
+│   └── SpringBootApp.java
 ├── infra/
 │   ├── main.tf
 │   ├── variables.tf
@@ -134,7 +135,7 @@ terraform destroy
 
 ## 👨‍💻 Autor
 
-**Douglas Muniz**  
+**Douglas Souza**  
 Desenvolvedor Java e DevOps em formação  
 🔗 [LinkedIn](https://www.linkedin.com/in/ddouglss) • [GitHub](https://github.com/ddouglss)
 
